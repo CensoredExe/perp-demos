@@ -6,7 +6,7 @@ To use this application, go to task manager, add this program to run on startup,
 import os
 import time
 path = "D:/SteamLibrary/steamapps/common/GarrysMod/garrysmod/demos/" # Your perpheads demo's path
-timedelete = 1 # How many days after the demos creation it gets deleted - Make sure its an integer
+timedelete = 30 # How many days after the demos creation it gets deleted - Make sure its an integer
 sleep = 30 # How many minutes the program sleeps for
 
 seconds = timedelete*86400

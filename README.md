@@ -2,6 +2,9 @@
 Perpheads demo remover
 This program will run every time in you turn on your PC in the background, check all your demos, and delete those after a certain amount of time
 # How to use
+
+Before use, check you have configured demo-remover.py to your liking, automatically, it deletes demos 21 days after creation.
+
 For single use, you can just run the demo-remover.py file, however, if you spend too much time on Perp, I recommend setting it up for automatic use.
 To use it automatically, follow these steps;
 - Run setup.py
