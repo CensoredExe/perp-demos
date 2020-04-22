@@ -1,7 +1,7 @@
 """
 Perpheads Demo Remover
 This application will run in the background, and remove all your demos after a set time
-To use this application, go to task manager, add this program to run on startup, and forget about it. It runs in the background, so nothing to fear!
+Read the readme file!
 """
 import os
 import time
